@@ -1,0 +1,16 @@
+.App-logo {
+    height: 50px;
+}
+
+.App-header {
+    background-color: #282c34;
+    display: flex;
+    align-items: center;
+    color: #61dafb;
+}
+
+.logout {
+    float: right;
+    padding-top: 13px;
+    padding-right: 13px;
+}
